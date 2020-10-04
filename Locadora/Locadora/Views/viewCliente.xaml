@@ -1,0 +1,33 @@
+﻿<Window x:Class="Locadora.Views.viewCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Locadora.Views"
+        mc:Ignorable="d"
+        Title="Nossos clientes" Height="450" Width="749.689">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FFEEFFC5" Offset="0.923"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label x:Name="LbListaCliente" Margin="0,10,-0.4,370" FontWeight="Bold" FontStyle="Italic" FontSize="18" Content="&#x9;&#x9;&#x9;LISTA DOS CLIENTES CADASTRADOS"/>
+        <DataGrid x:Name="dtaClientes" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="297" Margin="10,55,0,0" VerticalAlignment="Top" Width="718" Background="#FFEEFFC5">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding IdPessoa}"  Header="ID" Width="80"/>
+                <DataGridTextColumn Binding="{Binding Nome}" Header="NOME" Width="80"/>
+                <DataGridTextColumn Binding="{Binding Genero}"  Header="GENERO" Width="75"/>
+                <DataGridTextColumn Binding="{Binding Idade}"  Header="IDADE" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Cpf}"  Header="CPF" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Cnh}"  Header="CNH" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Telefone}"  Header="TELEFONE" Width="100"/>
+                <DataGridTextColumn Binding="{Binding CriadoEm}"  Header="Criado Em" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnFechar" Background="#FFDEAD" 
+            BorderBrush="Black" BorderThickness="1" 
+            Click="OnClick1" ClickMode="Hover" Margin="298,357,325.2,15" Content="FECHAR" FontSize="18"/>
+    </Grid>
+</Window>
