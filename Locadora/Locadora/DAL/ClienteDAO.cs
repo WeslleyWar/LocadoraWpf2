@@ -13,27 +13,60 @@ namespace Locadora.DAL
 
         private static List<Cliente> clientes = new List<Cliente>();
         public static List<Cliente> Listar() => clientes;
+        public static Cliente BuscarClienteCpf(Cliente c)
+        {
+            return clientes.FirstOrDefault(x => x.Cpf.Equals(c.Cpf));
+        }
+
         public static bool Cadastrar(Cliente c)
         {
-            if (BuscarCliente(c.Cpf) == null)
+            if (BuscarClienteCpf(c) == null)
             {
                 clientes.Add(c);
                 return true;
             }
             return false;
         }
-        public static Cliente BuscarCliente(string cpf)
+
+        public static Cliente BuscarClientePorId(Cliente id)
         {
-            return clientes.FirstOrDefault(x => x.Cpf == cpf);
-            //foreach (Cliente clienteCadastrado in clientes)
-            //{
-            //    if (clienteCadastrado.Cpf == cpf)
-            //    {
-            //        return clienteCadastrado;
-            //    }
-            //}
-            //return null;
+            return ctx.Clientes.Find(id);
         }
+        public static bool CadastrarCliente(Cliente c)
+        {
+            if (BuscarClienteCpf(c) == null)
+            {
+                ctx.Clientes.Add(c);
+                ctx.SaveChanges();
+                return true;
+            }
+            return false;
+        }
+
+        public static Cliente BuscarClientePorCNH(Cliente c)
+        {
+            return ctx.Clientes.FirstOrDefault(x => x.Cnh.Equals(c.Cnh));
+        }
+
+        public static List<Cliente> ListarClientes()
+        {
+            return ctx.Clientes.ToList();
+        }
+
+        public static bool AlterarCliente(Cliente c)
+        {
+            ctx.Clientes.Add(c);
+            ctx.SaveChanges();
+            return true;
+        }
+
+        //public static bool Remover(Cliente c)
+        //{
+        //    ctx.Clientes.Remove(c);
+        //    ctx.SaveChanges();
+        //    return true;
+        //}
+
     }
 }
 

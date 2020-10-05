@@ -6,15 +6,20 @@ using System.Text;
 
 namespace Locadora.DAL
 {
-    class FuncionarioDAO
+    class FuncionarioDAO :  ClienteDAO
     {
         private static List<Funcionario> funcionarios = new List<Funcionario>();
-        public static List<Funcionario> Listar() => funcionarios;
-        public static bool Cadastrar(Funcionario f)
+        public static List<Funcionario> ListarFuncionario() => funcionarios;
+
+        private static Context ctx =
+            SingletonContext.GetInstance();
+
+        public static bool CadastrarFuncionario(Funcionario f)
         {
-            if (BuscarFuncionario(f.Cpf) == null)
+            if (BuscarFuncionarioPorCpf(f) == null)
             {
-                funcionarios.Add(f);
+                ctx.Funcionarios.Add(f);
+                ctx.SaveChanges();
                 return true;
             }
             return false;
@@ -22,14 +27,22 @@ namespace Locadora.DAL
         public static Funcionario BuscarFuncionario(string cpf)
         {
             return funcionarios.FirstOrDefault(x => x.Cpf == cpf);
-            //foreach (Funcionario funcionarioCadastrado in funcionarios)
-            //{
-            //    if (funcionarioCadastrado.Cpf == cpf)
-            //    {
-            //        return funcionarioCadastrado;
-            //    }
-            //}
-            //return null;
         }
+
+        public static Funcionario BuscarFuncionarioPorId(Funcionario id)
+        {
+            return ctx.Funcionarios.Find(id);
+        }
+
+        public static Funcionario BuscarFuncionarioPorCpf(Funcionario f)
+        {
+            return ctx.Funcionarios.FirstOrDefault(x => x.Cpf.Equals(f.Cpf));
+        }
+
+        public static List<Funcionario> ListarFuncionarios()
+        {
+            return ctx.Funcionarios.ToList();
+        }
+
     }
 }

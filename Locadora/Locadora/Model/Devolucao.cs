@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace Locadora.Model
 {
     [Table("Devolucoes")]
-    class Devolucao
+    class Devolucao : Locacao
     {
         public Devolucao()
         {
@@ -15,6 +16,8 @@ namespace Locadora.Model
             Funcionario = new Funcionario();
             Veiculo = new Veiculo();
         }
+        [Key]
+        public int IdDevolucao { get; set; }
         public Cliente Cliente { get; set; }
         public Funcionario Funcionario { get; set; }
         public Veiculo Veiculo { get; set; }
