@@ -25,6 +25,7 @@ namespace Locadora.Views
         {
             InitializeComponent();
         }
+
         private void LimparFormulario()
         {
             TxtNome.Clear();
@@ -89,6 +90,7 @@ namespace Locadora.Views
         }
 
         private void btnBuscaCliente(object sender, RoutedEventArgs e)
+
         {
 
         }
