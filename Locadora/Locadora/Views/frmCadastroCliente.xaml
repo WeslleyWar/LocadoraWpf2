@@ -24,7 +24,7 @@
             <RowDefinition Height="139*"/>
         </Grid.RowDefinitions>
         <Label x:Name="LbNome" Margin="0,2,0,5" Grid.RowSpan="2" FontSize="14">Nome:</Label>
-        <TextBox x:Name="TxtNome" Grid.Column="1" Margin="5,3,273.6,6" Grid.RowSpan="2" />
+        <TextBox x:Name="TxtNome" Grid.Column="1" Margin="5,3,277,6" Grid.RowSpan="2" />
         <Label x:Name="LbGenero" Grid.Row="1" Margin="0,15,0,180" Grid.RowSpan="2" FontSize="14">Genero:</Label>
         <Label x:Name="LbIdade" Content="Idade:" Margin="385,0,202.6,6" Grid.Column="1" Grid.RowSpan="2" FontSize="14"/>
         <Label x:Name="LbDtNasc" Grid.Row="2" Content="Data de Nascimento:" Margin="0,37,0,139"/>
@@ -35,41 +35,43 @@
         <Label x:Name="LbCep" Grid.Row="2" Content="Cep:" Margin="385,143,198.6,23" Grid.Column="1" FontSize="14" RenderTransformOrigin="0.456,0.769"/>
         <Label x:Name="LbSalario" Grid.Row="2" Content="Salario:" Margin="0,143,0,23" FontSize="14"/>
         <TextBox x:Name="TxtIdade" Grid.Column="1" Margin="456,3,9.6,6" Grid.RowSpan="2" />
-        <TextBox x:Name="TxtDtNasc" Grid.Column="1" Margin="5,37,0,139" Grid.Row="2" HorizontalAlignment="Left" Width="375" />
+        <TextBox x:Name="TxtDtNasc" Grid.Column="1" Margin="5,37,0,139" Grid.Row="2" HorizontalAlignment="Left" Width="370" />
 
         <TextBox x:Name="TxtCpf" Grid.Column="1" Margin="456,19,9.6,192" Grid.Row="1" Grid.RowSpan="2" />
-        <TextBox x:Name="TxtEmail" Grid.Column="1" Margin="5,90,273.6,86" Grid.Row="2" />
+        <TextBox x:Name="TxtEmail" Grid.Column="1" Margin="5,90,277,86" Grid.Row="2" />
         <TextBox x:Name="TxtCnh" Grid.Column="1" Margin="456,37,9.6,139" Grid.Row="2" />
         <TextBox x:Name="TxtTelefone" Grid.Column="1" Margin="456,90,9.6,86" Grid.Row="2" />
         <TextBox x:Name="TxtCep" Grid.Column="1" Margin="456,143,9.6,23" Grid.Row="2" />
-        <TextBox x:Name="TxtSalario" Grid.Column="1" Margin="5,143,273.6,23" Grid.Row="2" />
+        <TextBox x:Name="TxtSalario" Grid.Column="1" Margin="5,143,277,23" Grid.Row="2" />
 
-        <Button x:Name="btnCancelar" Background="#FFDEAD" 
+        <Button x:Name="btnCancelarCadCliente" Background="#FFDEAD" 
         BorderBrush="Black" BorderThickness="1" 
-        Click="OnClick1" ClickMode="Hover" Grid.Column="1" Margin="10,56,523.6,17.2" Grid.Row="3">
-            CANCELAR
+        Click="btnCancelarCadastroCliente" ClickMode="Hover" Grid.Column="1" Margin="10,56,523.6,17.2" Grid.Row="3">
+            LIMPAR
         </Button>
 
-        <Button x:Name="btnBuscar" Background="#FFA8FAEA" 
+        <Button x:Name="btnBuscaCliente" Background="#FFA8FAEA" 
         BorderBrush="Black" BorderThickness="1" 
-        Click="OnClick1" ClickMode="Hover" Grid.Column="1" Margin="168,56,365.6,17.2" Grid.Row="3">
+        Click="btnBuscaCliente" ClickMode="Hover" Grid.Column="1" Margin="168,56,365.6,17.2" Grid.Row="3">
             BUSCAR
         </Button>
 
-        <Button x:Name="btnSalvar" Background="#FFC4FAA8" 
+        <Button x:Name="btnSalvCliente" Background="#FFC4FAA8" 
         BorderBrush="Black" BorderThickness="1" 
-        Click="OnClick1" ClickMode="Hover" Grid.Column="1" Margin="500,56,33.6,17.2" Grid.Row="3">
+        Click="btnSalvarCliente" ClickMode="Hover" Grid.Column="1" Margin="500,56,33.6,17.2" Grid.Row="3">
             SALVAR
         </Button>
 
         <Image Source="/Util/logo.png" Margin="-73,10,580.6,10.2" Grid.Row="3" Grid.ColumnSpan="2" />
 
 
-        <ComboBox x:Name="CmbGenero" Grid.Column="1" Margin="5,18,273.6,192" SelectionChanged="ComboBox_SelectionChanged" Grid.Row="1" Grid.RowSpan="2">
+        <ComboBox x:Name="CmbGenero" Grid.Column="1" Margin="5,0,277,192" SelectionChanged="ComboBox_SelectionChanged" Grid.Row="2">
+            <Button/>
+            <ComboBoxItem Content=""/>
+            <ComboBoxItem Content="Não informar"/>
             <ComboBoxItem Content="Masculino"/>
             <ComboBoxItem Content="Feminino"/>
             <ComboBoxItem Content="Outro"/>
-            <ComboBoxItem Content="Não informar"/>
         </ComboBox>
         <Button x:Name="btnExcluir" Background="#FF0000" 
             BorderBrush="Black" BorderThickness="1" 

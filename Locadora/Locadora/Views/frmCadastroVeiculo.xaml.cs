@@ -23,5 +23,25 @@ namespace Locadora.Views
         {
             InitializeComponent();
         }
+
+        
+
+        private void btnCancelarCadastroVeiculo(object sender, RoutedEventArgs e)
+        {
+            TxtMarca.Clear();
+            txtModelo.Clear();
+            CmbTipoVeiculo.SelectedIndex = -1;
+            TxtPlaca.Clear();
+            TxtAno.Clear();
+            TxtRenavan.Clear();
+            TxtPortas.Clear();
+            CmbTipoCombustivel.SelectedIndex = -1;
+            TxtPotencia.Clear();
+            TxtCor.Clear();
+            TxtStatus.Clear();
+            TxtPlaca.Focus();
+
+
+        }
     }
 }

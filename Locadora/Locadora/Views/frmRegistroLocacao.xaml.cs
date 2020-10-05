@@ -23,5 +23,26 @@ namespace Locadora.Views
         {
             InitializeComponent();
         }
+
+        private void btnLimparLocacao(object sender, RoutedEventArgs e)
+        {
+            TxtNomeCliente.Clear();
+            TxtIdadeCliente.Clear();
+            TxtCpfCliente.Clear();
+            TxtCnhCliente.Clear();
+            TxtMarca.Clear();
+            TxtModelo.Clear();
+            TxtPlaca.Clear();
+            TxtNomeFuncionario.Clear();
+            TxtCargoFuncionario.Clear();
+            TxtCpfFuncionario.Clear();
+            TxtDiasLocacao.Clear();
+            TxtValorPrevisto.Clear();
+            TxtDataInicio.Clear();
+            TxtDataPrevistaEntrega.Clear();
+            TxtPlaca.Clear();
+            TxtDataPrevistaEntrega.Clear();
+            TxtPlaca.Focus();
+        }
     }
 }
