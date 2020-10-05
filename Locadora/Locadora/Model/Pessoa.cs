@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace Locadora.Model
 {
+    [Table("Pessoas")]
     class Pessoa
     {
         public Pessoa()
@@ -11,7 +14,7 @@ namespace Locadora.Model
             CriadoEm = DateTime.Now;
         }
 
-        //[Key]
+        [Key]
         public int IdPessoa { get; set; }
         public String Nome { get; set; }
         public String Genero { get; set; }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
@@ -13,6 +14,8 @@ namespace Locadora.Model
             StatusVeiculo = "Disponivel";//Sempre que um veiculo é cadastrado ele já é setado como Disponivel
             CriadoEm = DateTime.Now;
         }
+        [Key]
+        public int IdVeiculo { get; set; }
         public string NomeMarca { get; set; }
         public string NomeModelo { get; set; }
         public double ValorDia { get; set; }
@@ -27,14 +30,13 @@ namespace Locadora.Model
         public string StatusVeiculo { get; set; }//Se esta ocupado ou disponivel
         public DateTime CriadoEm { get; set; }
 
-        public override string ToString()
-        {
-            return $"Nome da marca: {NomeMarca} | Nome do Modelo: {NomeModelo} " +
-                $"Valor por Dia: {ValorDia} | Placa do veiculo: {Placa} " +
-                $"Numero do renavan: {Renavan} | Tipo de veiculo: {TipoVeiculo} " +
-                $"Tipo de Combustivel: {TipoCombustivel} | Cor: {Cor} " +
-                $"| Criado em: {CriadoEm}";
-        }
+        //public override string ToString()
+        //{
+        //    return $"Nome da marca: {NomeMarca} | Nome do Modelo: {NomeModelo} " +
+        //        $"Valor por Dia: {ValorDia} | Placa do veiculo: {Placa} " +
+        //        $"Numero do renavan: {Renavan} | Tipo de veiculo: {TipoVeiculo} " +
+        //        $"Tipo de Combustivel: {TipoCombustivel} | Cor: {Cor} " +
+        //        $"| Criado em: {CriadoEm}";
+        //}
     }
 }
-
