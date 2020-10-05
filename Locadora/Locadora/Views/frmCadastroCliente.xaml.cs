@@ -23,5 +23,10 @@ namespace Locadora.Views
         {
             InitializeComponent();
         }
+
+        private void OnClick1(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
