@@ -25,11 +25,24 @@ namespace Locadora.Model
         }
         public Double Salario { get; set; }
         public String Telefone { get; set; }
+            
+        
+        
+        
+        
+        
+        
+        
         //public override string ToString()
         //{
         //    return $"Nome: {Nome} | CPF: {Cpf} | " +
         //        $"Criado em: {CriadoEm} | Idade: {Idade} | " + 
         //        $"Cnh: {Cnh} | Salario: {Salario} | Telefone: {Telefone}";
         //}
+
+
+
+
+
     }
 }

@@ -50,18 +50,16 @@
         <Label x:Name="LbQntdDias" Content="Tempo em Dias:" HorizontalAlignment="Left" Margin="282,266,0,0" VerticalAlignment="Top" Width="130" FontSize="15"/>
         <Label x:Name="LbValorPrevisto" Content="Valor previsto:" HorizontalAlignment="Left" Margin="282,301,0,0" VerticalAlignment="Top" Width="130" FontSize="15"/>
         <Label x:Name="LbCpfFuncionario_Copy" Content="Data de Entrega&#xD;&#xA;Prevista:" HorizontalAlignment="Left" Margin="282,393,0,0" VerticalAlignment="Top" Width="130" FontSize="15"/>
-        <TextBox x:Name="TxtNomeFuncionario_Copy" HorizontalAlignment="Left" Height="30" Margin="417,266,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181"/>
-        <TextBox x:Name="TxtCargoFuncionario_Copy" HorizontalAlignment="Left" Height="30" Margin="417,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181"/>
-        <TextBox x:Name="TxtCpfFuncionario_Copy" HorizontalAlignment="Left" Height="50" Margin="417,393,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181"/>
+        <TextBox x:Name="TxtDiasLocacao" HorizontalAlignment="Left" Height="30" Margin="417,266,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181"/>
+        <TextBox x:Name="TxtValorPrevisto" HorizontalAlignment="Left" Height="30" Margin="417,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181"/>
+        <TextBox x:Name="TxtDataPrevistaEntrega" HorizontalAlignment="Left" Height="50" Margin="417,393,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181"/>
         <Label x:Name="LbCargoFuncionario_Copy1" Content="Data inicio &#xD;&#xA;Locação:" HorizontalAlignment="Left" Margin="282,338,0,0" VerticalAlignment="Top" Width="130" FontSize="15"/>
-        <TextBox x:Name="TxtCargoFuncionario_Copy1" HorizontalAlignment="Left" Height="46" Margin="417,338,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181"/>
+        <TextBox x:Name="TxtDataInicio" HorizontalAlignment="Left" Height="46" Margin="417,338,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181"/>
 
 
-        <Button x:Name="btnCancelar" Background="#FFFD9DAE" 
+        <Button x:Name="btnLimpaLocacao" Background="#FFFD9DAE" 
         BorderBrush="Black" BorderThickness="1" 
-        Click="OnClick1" ClickMode="Hover" Margin="645,266,38.6,157" FontFamily="Arial Black" FontSize="18" RenderTransformOrigin="1.349,2.789">
-            CANCELAR
-        </Button>
+        Click="btnLimparLocacao" ClickMode="Hover" Margin="645,266,38.6,157" FontFamily="Arial Black" FontSize="18" RenderTransformOrigin="1.349,2.789" Content="Limpar"/>
 
         <Button x:Name="btnConcluir" Background="#FF67FF17" 
         BorderBrush="Black" BorderThickness="1" 

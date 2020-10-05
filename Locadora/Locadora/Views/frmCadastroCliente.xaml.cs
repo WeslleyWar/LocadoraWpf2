@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Locadora.DAL;
+using Locadora.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,7 +26,71 @@ namespace Locadora.Views
             InitializeComponent();
         }
 
-        private void OnClick1(object sender, RoutedEventArgs e)
+        private void LimparFormulario()
+        {
+            TxtNome.Clear();
+            TxtIdade.Clear();
+            TxtCpf.Clear();
+            TxtEmail.Clear();
+            TxtCnh.Clear();
+            TxtTelefone.Clear();
+            TxtCep.Clear();
+            TxtSalario.Clear();
+            CmbGenero.SelectedIndex = -1;
+            TxtDtNasc.Clear();
+            TxtCpf.Focus();
+        }
+
+
+        private void btnCancelarCadastroCliente(object sender, RoutedEventArgs e)
+        {
+            TxtNome.Clear();
+            TxtIdade.Clear();
+            TxtCpf.Clear();
+            TxtEmail.Clear();
+            TxtCnh.Clear();
+            TxtTelefone.Clear();
+            TxtCep.Clear();
+            TxtSalario.Clear();
+            CmbGenero.SelectedIndex = -1;
+            TxtDtNasc.Clear();
+            TxtCpf.Focus();
+        }
+
+    
+
+        private void btnSalvarCliente(object sender, RoutedEventArgs e)
+        {
+            Cliente c = new Cliente
+            {
+
+                Nome = TxtNome.Text,
+                Idade = Convert.ToInt32(TxtIdade.Text),
+                Cpf = TxtCpf.Text,
+                Email = TxtEmail.Text,
+                Cnh = TxtCnh.Text,
+                Telefone = TxtTelefone.Text,
+                Cep = TxtCep.Text,
+                Salario = Convert.ToDouble(TxtSalario.Text),
+                DataNascimento = Convert.ToDateTime(TxtDtNasc.Text)        
+               
+               
+
+            };
+
+            if (ClienteDAO.Cadastrar(c))
+            {
+                MessageBox.Show("Cliente cadastrado com sucesso!");
+                LimparFormulario();
+            }
+            else
+            {
+                MessageBox.Show("Pedido já existe!");
+            }
+        }
+
+        private void btnBuscaCliente(object sender, RoutedEventArgs e)
+
         {
 
         }
