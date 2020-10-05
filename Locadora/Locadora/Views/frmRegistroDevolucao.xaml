@@ -20,13 +20,13 @@
             </LinearGradientBrush>
         </Grid.Background>
         <Label x:Name="LbVeiculo" Content="DEVOLVER VEÍCULO" HorizontalAlignment="Left" Margin="176,10,0,0" VerticalAlignment="Top" Width="216" FontSize="18" FontWeight="Bold" FontStyle="Italic" FontFamily="Arial Black"/>
-        <Label x:Name="LbModelo" Content="MODELO:" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Width="80" Height="51"/>
+        <Label x:Name="LbModelo" Content="MODELO:" HorizontalAlignment="Left" Margin="10,177,0,0" VerticalAlignment="Top" Width="80" Height="51"/>
         <Label x:Name="LbMarca" Content="MARCA:" HorizontalAlignment="Left" Margin="10,121,0,0" VerticalAlignment="Top" Width="80" Height="51"/>
-        <Label x:Name="LbPlaca" Content="PLACA:" HorizontalAlignment="Left" Margin="10,177,0,0" VerticalAlignment="Top" Width="80" Height="51"/>
+        <Label x:Name="LbPlaca" Content="PLACA:" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Width="80" Height="51"/>
         <TextBox x:Name="TxtModelo" HorizontalAlignment="Left" Height="51" Margin="95,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
         <TextBox x:Name="TxtMarca" HorizontalAlignment="Left" Height="51" Margin="95,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
         <TextBox x:Name="TxtPlaca" HorizontalAlignment="Left" Height="51" Margin="95,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
-        <Button x:Name="BtnBuscarPlaca" Content="BUSCAR POR &#xD;&#xA;     PLACA" HorizontalAlignment="Left" Margin="250,177,0,0" VerticalAlignment="Top" Width="80" Height="51" OpacityMask="#FFCD7474" Click="BtnCancelar_Copy_Click" Background="#FFBFEAEB" FontWeight="Bold" FontStyle="Italic"/>
+        <Button x:Name="BtnBuscarPlaca" Content="BUSCAR POR &#xD;&#xA;     PLACA" HorizontalAlignment="Left" Margin="250,65,0,0" VerticalAlignment="Top" Width="80" Height="51" OpacityMask="#FFCD7474" Click="BtnCancelar_Copy_Click" Background="#FFBFEAEB" FontWeight="Bold" FontStyle="Italic"/>
         <Label x:Name="LbDataEntrega" Content="DATA DE&#xD;&#xA;ENTREGA:" HorizontalAlignment="Left" Margin="10,233,0,0" VerticalAlignment="Top" Width="80" Height="51"/>
         <TextBox x:Name="TxtDataEntrega" HorizontalAlignment="Left" Height="51" Margin="95,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
         <Label x:Name="LbValorSmulta" Content="PREÇO SEM&#xD;&#xA;MULTAS:" HorizontalAlignment="Left" Margin="335,65,0,0" VerticalAlignment="Top" Width="80" Height="51"/>
@@ -36,7 +36,7 @@
         <Label x:Name="LbValorMulta" Content="VALOR DA&#xD;&#xA;MULTA:" HorizontalAlignment="Left" Margin="335,172,0,0" VerticalAlignment="Top" Width="80" Height="51"/>
         <TextBlock x:Name="TxbValorMulta" HorizontalAlignment="Left" Margin="420,172,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="45" Width="99"/>
         <Button x:Name="BtnCadastrar" Content="CADASTRAR" HorizontalAlignment="Left" Margin="335,314,0,0" VerticalAlignment="Top" Width="80" Height="51" OpacityMask="#FFCD7474" Click="BtnCancelar_Copy_Click" Background="#FF72F358" FontWeight="Bold" FontStyle="Italic"/>
-        <Button x:Name="BtnCancelar" Content="CANCELAR" HorizontalAlignment="Left" Margin="146,314,0,0" VerticalAlignment="Top" Width="80" Height="51" OpacityMask="#FFCD7474" Click="BtnCancelar_Copy_Click" Background="#FFF77373" FontWeight="Bold" FontStyle="Italic"/>
+        <Button x:Name="BtnLimpaDevolucao" Content="LIMPAR" HorizontalAlignment="Left" Margin="146,314,0,0" VerticalAlignment="Top" Width="80" Height="51" OpacityMask="#FFCD7474" Click="BtnLimparDevolucao" Background="#FFF77373" FontWeight="Bold" FontStyle="Italic"/>
 
 
     </Grid>

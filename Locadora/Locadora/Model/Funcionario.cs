@@ -12,6 +12,16 @@ namespace Locadora.Model
         {
             CriadoEm = DateTime.Now;
         }
+        public sealed class CmbGenero
+        {
+            public string Texto { get; set; }
+            public string Valor { get; set; }
+
+            public override string ToString()
+            {
+                return this.Texto;
+            }
+        }
         public String ContatoPessoal { get; set; }
         public Boolean PermissãoDirigir { get; set; }
         //public override string ToString()

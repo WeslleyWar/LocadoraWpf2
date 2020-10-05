@@ -33,16 +33,16 @@
             <Label x:Name="LbRenavan" Grid.Row="2" Content="Renavan:" Margin="384.6,11.8,173.6,307" Grid.Column="1"/>
             <Label x:Name="LbStatus" Grid.Row="2" Content="Status: " Margin="0,117.8,0.4,200"/>
             <TextBox x:Name="txtModelo" Grid.Column="1" Margin="510.6,2,18.6,2.4" />
-            <TextBox x:Name="TxtDtNasc" Grid.Column="1" Margin="4.6,10,298.6,310" Grid.Row="2" />
+            <TextBox x:Name="TxtAno" Grid.Column="1" Margin="4.6,10,298.6,310" Grid.Row="2" />
             <TextBox x:Name="TxtPlaca" Grid.Column="1" Margin="510.6,2.6,18.6,341" Grid.Row="1" Grid.RowSpan="2" />
-            <TextBox x:Name="TxtEmail" Grid.Column="1" Margin="4.6,44,298.6,270" Grid.Row="2" />
-            <TextBox x:Name="TxtCnh" Grid.Column="1" Margin="510.6,10,18.6,310" Grid.Row="2" />
+            <TextBox x:Name="TxtPortas" Grid.Column="1" Margin="4.6,44,298.6,270" Grid.Row="2" />
+            <TextBox x:Name="TxtRenavan" Grid.Column="1" Margin="510.6,10,18.6,310" Grid.Row="2" />
             <TextBox x:Name="TxtStatus" Grid.Column="1" Margin="4.6,118.8,298.6,200" Grid.Row="2" />
             <TextBox x:Name="TxtCor" Grid.Column="1" Margin="510.6,82,18.6,237" Grid.Row="2" />
 
-            <Button x:Name="btnCancelar" Background="#FFFD9DAE" 
+            <Button x:Name="btnCancelaCadastroVeiculo" Background="#FFFD9DAE" 
         BorderBrush="Black" BorderThickness="1" 
-        Click="OnClick1" ClickMode="Hover" Grid.Column="1" Margin="10,262.4,523.6,22.2" Grid.Row="2">
+        Click="btnCancelaCadastroVeiculo" ClickMode="Hover" Grid.Column="1" Margin="10,262.4,523.6,22.2" Grid.Row="2">
                 CANCELAR
             </Button>
 
@@ -63,18 +63,20 @@
             <Label x:Name="LbCor" Grid.Row="2" Content="Cor:" Margin="385.6,80.8,173.6,237" Grid.Column="1"/>
 
             <ComboBox x:Name="CmbTipoCombustivel" Grid.Column="1" Margin="510.6,44,18.6,270" Grid.Row="2" SelectionChanged="ComboBox_SelectionChanged">
+                <ComboBoxItem Content=""/>
                 <ComboBoxItem>Alcool</ComboBoxItem>
                 <ComboBoxItem>Gasolina</ComboBoxItem>
                 <ComboBoxItem>Total Flex</ComboBoxItem>
                 <ComboBoxItem>Hibrido</ComboBoxItem>
             </ComboBox>
             <ComboBox x:Name="CmbTipoVeiculo" Grid.Column="1" Margin="4.6,2.6,299.6,341" SelectionChanged="ComboBox_SelectionChanged" Grid.RowSpan="2" Grid.Row="1">
+                <ComboBoxItem Content=""/>
                 <ComboBoxItem Content="Trabalho"/>
                 <ComboBoxItem Content="Passeio"/>
                 <ComboBoxItem Content="Luxo"/>
             </ComboBox>
             <Label x:Name="LbPotencia" Grid.Row="2" Content="Potência:" Margin="0,80.8,0.4,237"/>
-            <TextBox x:Name="TxtTelefone_Copy" Grid.Column="1" Margin="4.6,82.8,298.6,236" Grid.Row="2" />
+            <TextBox x:Name="TxtPotencia" Grid.Column="1" Margin="4.6,82.8,298.6,236" Grid.Row="2" />
             <TextBlock x:Name="CriadoEm" Text="Data do registro" FontSize="12" Grid.Column="1" Margin="510.6,118.8,18.6,204" Grid.Row="2" ></TextBlock>
             <Label x:Name="LbCriadoEm" Grid.Row="2" Content="CriadoEm:" Margin="385.6,115.8,173.6,202" Grid.Column="1"/>
 

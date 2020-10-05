@@ -24,5 +24,18 @@ namespace Locadora.Views
             InitializeComponent();
         }
 
+        private void btnCancelarCadastroFuncionario(object sender, RoutedEventArgs e)
+        {
+            TxtNome.Clear();
+            TxtIdade.Clear();
+            CmbPermissao.SelectedIndex = -1;
+            TxtCpf.Clear();
+            TxtDtNasc.Clear();
+            TxtCnh.Clear();
+            TxtEmail.Clear();
+            CmbPermissao.SelectedIndex = -1;
+            TxtContatoPessoal.Clear();
+            TxtCpf.Focus();
+        }
     }
 }

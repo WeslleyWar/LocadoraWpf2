@@ -24,8 +24,13 @@ namespace Locadora.Views
             InitializeComponent();
         }
 
-        private void BtnCancelar_Copy_Click(object sender, RoutedEventArgs e)
+               private void BtnLimparDevolucao(object sender, RoutedEventArgs e)
         {
+            TxtMarca.Clear();
+            TxtModelo.Clear();
+            TxtPlaca.Clear();
+            TxtDataEntrega.Clear();
+            TxtPlaca.Focus();
 
         }
     }
