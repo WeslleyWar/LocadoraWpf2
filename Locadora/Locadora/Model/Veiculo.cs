@@ -20,7 +20,7 @@ namespace Locadora.Model
         public string NomeModelo { get; set; }
         public double ValorDia { get; set; }
         public string Placa { get; set; }
-        public int Renavan { get; set; }
+        public string Renavan { get; set; }
         public string TipoVeiculo { get; set; }
         public string TipoCombustivel { get; set; }
         public string Cor { get; set; }
