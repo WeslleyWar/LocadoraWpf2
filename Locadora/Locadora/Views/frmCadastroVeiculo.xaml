@@ -48,7 +48,7 @@
 
             <Button x:Name="btnBuscar" Background="#FFA8FAEA" 
         BorderBrush="Black" BorderThickness="1" 
-        Click="OnClick1" ClickMode="Hover" Grid.Column="1" Margin="180.6,262.8,352.6,22" Grid.Row="2">
+        Click="BuscarVeiculo_Click" ClickMode="Hover" Grid.Column="1" Margin="180.6,262.8,352.6,22" Grid.Row="2">
                 BUSCAR
             </Button>
 
@@ -56,7 +56,7 @@
 
             <Button x:Name="btnSalvar" Background="#FFC4FAA8" 
         BorderBrush="Black" BorderThickness="1" 
-        Click="OnClick1" ClickMode="Hover" Grid.Column="1" Margin="348.6,262.8,184.6,22" Grid.Row="2">
+        Click="CadastrarVeiculo_Click" ClickMode="Hover" Grid.Column="1" Margin="348.6,262.8,184.6,22" Grid.Row="2">
                 SALVAR
             </Button>
             <Label x:Name="LbTipoCombustivel" Grid.Row="2" Content="Tipo Combustivel:" Margin="384.6,44,173.6,270" Grid.Column="1"/>
@@ -82,7 +82,7 @@
 
             <Button x:Name="btnExcluir" Background="#FF0000" 
             BorderBrush="Black" BorderThickness="1" 
-            Click="OnClick1" ClickMode="Hover" Grid.Column="1" Margin="523.6,262.8,9.6,22" Grid.Row="2" Content="EXCLUIR"/>
+            Click="ExcluirVeiculo_Click" ClickMode="Hover" Grid.Column="1" Margin="523.6,262.8,9.6,22" Grid.Row="2" Content="EXCLUIR"/>
 
 
         </Grid>
