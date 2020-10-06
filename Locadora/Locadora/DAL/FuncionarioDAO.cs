@@ -1,23 +1,19 @@
-﻿using Locadora.Models;
+﻿using Locadora.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Locadora.DAL
 {
-    class FuncionarioDAO : ClienteDAO
+    class FuncionarioDAO :  ClienteDAO
     {
-        //Funcionario deixa de Editar ou remover informações cadastradas.
+        private static List<Funcionario> funcionarios = new List<Funcionario>();
+        public static List<Funcionario> ListarFuncionario() => funcionarios;
+
         private static Context ctx =
             SingletonContext.GetInstance();
-        //private static Context ctx = new Context();
-        //Funcionarios
-        public static Funcionario BuscarFuncionarioPorId(Funcionario id)
-        {
-            return ctx.Funcionarios.Find(id);
-        }
+
         public static bool CadastrarFuncionario(Funcionario f)
         {
             if (BuscarFuncionarioPorCpf(f) == null)
@@ -27,6 +23,15 @@ namespace Locadora.DAL
                 return true;
             }
             return false;
+        }
+        public static Funcionario BuscarFuncionario(string cpf)
+        {
+            return funcionarios.FirstOrDefault(x => x.Cpf == cpf);
+        }
+
+        public static Funcionario BuscarFuncionarioPorId(Funcionario id)
+        {
+            return ctx.Funcionarios.Find(id);
         }
 
         public static Funcionario BuscarFuncionarioPorCpf(Funcionario f)
@@ -38,5 +43,6 @@ namespace Locadora.DAL
         {
             return ctx.Funcionarios.ToList();
         }
+
     }
 }
