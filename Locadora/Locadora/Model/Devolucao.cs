@@ -18,10 +18,10 @@ namespace Locadora.Model
         }
         [Key]
         public int IdDevolucao { get; set; }
-        public Cliente Cliente { get; set; }
-        public Funcionario Funcionario { get; set; }
-        public Veiculo Veiculo { get; set; }
-        public Double ValorMulta { get; set; }
+        public Cliente cliente { get; set; }
+        public Funcionario funcionario { get; set; }
+        public Veiculo veiculo { get; set; }
+        public Double valorMulta { get; set; }
         public DateTime DevolucaoEm { get; set; }
     }
 }

@@ -28,12 +28,10 @@ namespace Locadora.Views
         {
             TxtNome.Clear();
             TxtIdade.Clear();
-            CmbPermissao.SelectedIndex = -1;
             TxtCpf.Clear();
             TxtDtNasc.Clear();
             TxtCnh.Clear();
             TxtEmail.Clear();
-            CmbPermissao.SelectedIndex = -1;
             TxtContatoPessoal.Clear();
             TxtCpf.Focus();
         }

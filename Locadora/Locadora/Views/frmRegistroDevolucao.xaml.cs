@@ -33,5 +33,10 @@ namespace Locadora.Views
             TxtPlaca.Focus();
 
         }
+
+        private void BtnCancelar_Copy_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

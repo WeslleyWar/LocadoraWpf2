@@ -41,11 +41,13 @@
         <TextBox x:Name="TxtModelo" HorizontalAlignment="Left" Height="30" Margin="403,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195"/>
         <TextBox x:Name="TxtPlaca" HorizontalAlignment="Left" Height="30" Margin="403,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195"/>
         <Button x:Name="btnValidarV" Content="VALIDAR" HorizontalAlignment="Left" Margin="282,180,0,0" VerticalAlignment="Top" Width="316" Height="22" Background="#FFEEE1C6" FontWeight="Bold" FontFamily="Arial" FontSize="11" Click="BtnBuscarC_Click"/>
-        <ComboBox x:Name="CmbTipoVeiculo" Margin="403,145,243.6,351.4" SelectionChanged="ComboBox_SelectionChanged">
-            <ComboBoxItem Content="Trabalho"/>
-            <ComboBoxItem Content="Passeio"/>
-            <ComboBoxItem Content="Luxo"/>
-        </ComboBox>
+        
+        
+        
+        
+        
+        
+        
         <Label x:Name="LbLocacao" Content="LOCAÇÃO" HorizontalAlignment="Left" Margin="282,228,0,0" VerticalAlignment="Top" Width="158" FontSize="18" FontWeight="Bold" FontStyle="Italic" FontFamily="Arial Black"/>
         <Label x:Name="LbQntdDias" Content="Tempo em Dias:" HorizontalAlignment="Left" Margin="282,266,0,0" VerticalAlignment="Top" Width="130" FontSize="15"/>
         <Label x:Name="LbValorPrevisto" Content="Valor previsto:" HorizontalAlignment="Left" Margin="282,301,0,0" VerticalAlignment="Top" Width="130" FontSize="15"/>

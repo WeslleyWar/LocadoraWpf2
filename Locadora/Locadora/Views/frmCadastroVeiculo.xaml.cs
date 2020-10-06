@@ -43,5 +43,20 @@ namespace Locadora.Views
 
 
         }
+
+        private void OnClick1(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void btnCancelaCadastroVeiculo(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

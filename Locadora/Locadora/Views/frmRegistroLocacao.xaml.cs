@@ -44,5 +44,15 @@ namespace Locadora.Views
             TxtDataPrevistaEntrega.Clear();
             TxtPlaca.Focus();
         }
+
+        private void BtnBuscarC_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick1(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

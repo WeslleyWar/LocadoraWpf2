@@ -89,8 +89,19 @@ namespace Locadora.Views
             }
         }
 
-        private void btnBuscaCliente(object sender, RoutedEventArgs e)
+        private void BtnBuscaCliente(object sender, RoutedEventArgs e)
 
+        {
+
+
+        }
+
+        private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            
+        }
+
+        private void OnClick1(object sender, RoutedEventArgs e)
         {
 
         }

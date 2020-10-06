@@ -46,37 +46,15 @@
                 CANCELAR
             </Button>
 
-            <Button x:Name="btnBuscar" Background="#FFA8FAEA" 
-        BorderBrush="Black" BorderThickness="1" 
-        Click="OnClick1" ClickMode="Hover" Grid.Column="1" Margin="260,262.4,273.6,22.2" Grid.Row="2">
-                BUSCAR
-            </Button>
+      
 
             <Image Source="/Util/logo.png" Margin="-76,202.6,583.6,10" Grid.Row="2" RenderTransformOrigin="-0.39,1" Grid.ColumnSpan="2" />
 
-            <Button x:Name="btnSalvar" Background="#FFC4FAA8" 
-        BorderBrush="Black" BorderThickness="1" 
-        Click="OnClick1" ClickMode="Hover" Grid.Column="1" Margin="524,262.4,9.6,22.2" Grid.Row="2">
-                SALVAR
-            </Button>
+          
             <Label x:Name="lbCategoria" Grid.Row="2" Content="Categoria Hab." Margin="385,43.6,158.6,270" Grid.Column="1"/>
             <Label x:Name="lbContatoPessoal" Grid.Row="2" Content="Contato Pessoal: " Margin="386,80.6,168.6,237" Grid.Column="1"/>
 
-            <ComboBox x:Name="CmbPermissao" Grid.Column="1" Margin="490,44,19,274" Grid.Row="2" SelectionChanged="ComboBox_SelectionChanged">
-                <ComboBoxItem></ComboBoxItem>
-                <ComboBoxItem>A</ComboBoxItem>
-                <ComboBoxItem>AB</ComboBoxItem>
-                <ComboBoxItem>AC</ComboBoxItem>
-                <ComboBoxItem>AD</ComboBoxItem>
-                <ComboBoxItem>AE</ComboBoxItem>
-            </ComboBox>
-            <ComboBox x:Name="CmbGenero" Grid.Column="1" Margin="5,2,274,341" SelectionChanged="ComboBox_SelectionChanged" Grid.RowSpan="2" Grid.Row="1">
-                <ComboBoxItem Content="Masculino"/>
-                <ComboBoxItem Content="Feminino"/>
-                <ComboBoxItem Content="Outro"/>
-                <ComboBoxItem Content="Não informar"/>
-            </ComboBox>
-
+           
         </Grid>
     </Grid>
 </Window>

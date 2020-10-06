@@ -52,7 +52,7 @@
 
         <Button x:Name="btnBuscaCliente" Background="#FFA8FAEA" 
         BorderBrush="Black" BorderThickness="1" 
-        Click="btnBuscaCliente" ClickMode="Hover" Grid.Column="1" Margin="168,56,365.6,17.2" Grid.Row="3">
+        Click="BtnBuscaCliente" ClickMode="Hover" Grid.Column="1" Margin="168,56,365.6,17.2" Grid.Row="3">
             BUSCAR
         </Button>
 
