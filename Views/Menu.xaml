@@ -1,0 +1,42 @@
+﻿<Window x:Class="Locadora.Views.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Locadora.Views"
+        mc:Ignorable="d"
+        Title="Menu" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_Cadastros">
+                    <MenuItem Header="_Cliente" Click="MenuItemCadastroCliente"/>
+                    <MenuItem Header="_Funcionario" Click="MenuItemCadastroFuncionario" />
+                    <MenuItem Header="_Veiculo" Click="MenuItemCadastroVeiculo" />
+                    <Separator />
+                </MenuItem>
+                <MenuItem Header="_Listagem">
+                    <MenuItem Header="_Cliente" Click="MenuItemListarCliente" />
+                    <MenuItem Header="_Funcionario" Click="MenuItemListarFuncionario"/>
+                    <MenuItem Header="_Veiculo" Click="MenuItemListarVeiculo"/>
+                    <Separator />
+                </MenuItem>
+                <MenuItem Header="_Locação">
+                    <MenuItem Header="_Gerar Locação" Click="MenuItemGerarLocacao"/>
+                    <MenuItem Header="_Listar locações" Click="MenuItemListarLocacao"/>
+                    <Separator />
+                </MenuItem>
+                <MenuItem Header="_Devolução">
+                    <MenuItem Header="_Devolver veiculo" Click="MenuItemDevolverVeiculo"/>
+                    <MenuItem Header="_Listar devoluções" Click="MenuItemListarDevolucao"/>
+                    <Separator />
+                </MenuItem>
+                <MenuItem Header="_Sair">
+                    <MenuItem Header="_Sair da aplicação" />
+                    <Separator />
+                </MenuItem>
+            </Menu>
+            <TextBox AcceptsReturn="True" />
+        </DockPanel>
+    </Grid>
+</Window>

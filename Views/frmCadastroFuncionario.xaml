@@ -1,0 +1,81 @@
+﻿<Window x:Class="Locadora.Views.frmCadastroFuncionario"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Locadora.Views"
+        mc:Ignorable="d"
+        Title="Cadastro de funcionarios" Height="450" Width="800" Background="#FFFFD1D1">
+    <Grid Background="#FFEFF46A">
+        <Grid Margin="10">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFDFFD3" Offset="1"/>
+                    <GradientStop Color="#FFEBDE88" Offset="0.923"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="772" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="399" />
+            </Grid.RowDefinitions>
+            <Label x:Name="LbNome" Height="30" Margin="5,41,647,328">Nome:</Label>
+            <TextBox x:Name="TxtNome" Margin="84,41,318,328" Height="30" Text="Michael" Width="370" />
+            <Label x:Name="LbGenero" Margin="473,0,179,363" Height="30" VerticalAlignment="Bottom">Genero:</Label>
+            <Label x:Name="LbIdade" Content="Idade:" Margin="473,76,235,293" Height="30"/>
+            <Label x:Name="LbDtNasc" Content="Data de Nascimento:" Margin="473,41,179,328" Height="30"/>
+            <Label x:Name="LbCpf" Content="CPF:" Margin="5,8,704,361" RenderTransformOrigin="8.248,-2.264" Height="30"/>
+            <Label x:Name="LbEmail" Content="Email:" Margin="5,76,647,293" Height="30"/>
+            <Label x:Name="LbCnh" Content="Cnh:" Margin="5,111,706,258" Height="30"/>
+            <Label x:Name="LbTelefone" Content="Telefone:" Margin="0,154,652,215" Height="30"/>
+            <TextBox x:Name="TxtIdade" Margin="614,80,20,289" Text="38" />
+            <TextBox x:Name="TxtDtNasc" Margin="614,45,20,324" Height="30" Text="16/06/1982" />
+            <TextBox x:Name="TxtCpf" Margin="84,6,568,363" Height="30" Width="120" Text="03917733994" />
+            <TextBox x:Name="TxtEmail" Margin="84,76,318,293" Height="30" Width="370" Text="Michaelmakina@gmail.com" />
+            <TextBox x:Name="TxtCnh" Margin="84,111,510,258" Height="30" Text="78056428" />
+            <TextBox x:Name="TxtTelefone" Margin="84,154,318,215" Height="30" Text="97776950" />
+
+            <Button x:Name="btnCancelaCadastroFuncionario" Background="#FFFD9DAE" 
+        BorderBrush="Black" BorderThickness="1" 
+        Click="btnCancelarCadastroFuncionario" ClickMode="Press" Margin="130,328,524,22">
+                CANCELAR
+            </Button>
+
+            <Button x:Name="btnBuscar" Background="#FFA8FAEA" 
+        BorderBrush="Black" BorderThickness="1"
+        ClickMode="Press" Margin="380,328,274,22" Click="btnBuscar_Click">
+                BUSCAR
+            </Button>
+
+            <Image Source="/Util/logo.png" Margin="-76,269,584,10" RenderTransformOrigin="-0.39,1" />
+
+            <Button x:Name="btnSalvar" Background="#FFC4FAA8" 
+        BorderBrush="Black" BorderThickness="1" 
+        ClickMode="Press" Margin="644,328,10,22" Click="btnSalvar_Click">
+                SALVAR
+            </Button>
+            <Label x:Name="lbCategoria" Content="Categoria Hab." Margin="274,111,390,258" Height="30"/>
+
+            <ComboBox x:Name="CmbCategoria" Margin="409,111,318,258" Height="30" SelectedIndex="1">
+                <ComboBoxItem></ComboBoxItem>
+                <ComboBoxItem>A</ComboBoxItem>
+                <ComboBoxItem>AB</ComboBoxItem>
+                <ComboBoxItem>AC</ComboBoxItem>
+                <ComboBoxItem>AD</ComboBoxItem>
+                <ComboBoxItem>AE</ComboBoxItem>
+                <ComboBoxItem>B</ComboBoxItem>
+                <ComboBoxItem>C</ComboBoxItem>
+                <ComboBoxItem>D</ComboBoxItem>
+                <ComboBoxItem>E</ComboBoxItem>
+            </ComboBox>
+            <ComboBox x:Name="CmbGenero" Margin="614,6,20,363" Height="30" Width="138" SelectedIndex="0">
+                <ComboBoxItem Content="Masculino"/>
+                <ComboBoxItem Content="Feminino"/>
+                <ComboBoxItem Content="Outro"/>
+                <ComboBoxItem Content="Não informar"/>
+            </ComboBox>
+
+        </Grid>
+    </Grid>
+</Window>

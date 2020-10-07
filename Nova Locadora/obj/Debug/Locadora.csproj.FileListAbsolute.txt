@@ -1,0 +1,1095 @@
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.csprojAssemblyReference.cache
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\MainWindow.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroCliente.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroFuncionario.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroVeiculo.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmRegistroDevolucao.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmRegistroLocacao.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\Menu.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewCliente.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewDevolucao.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewFuncionario.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewLocacao.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewVeiculo.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\App.g.cs
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora_MarkupCompile.cache
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora_MarkupCompile.lref
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Locadora.exe.config
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Locadora.exe
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Locadora.pdb
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\EntityFramework.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\EntityFramework.SqlServer.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\EntityFramework.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\EntityFramework.SqlServer.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\MainWindow.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroCliente.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroFuncionario.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroVeiculo.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmRegistroDevolucao.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmRegistroLocacao.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\Menu.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewCliente.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewDevolucao.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewFuncionario.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewLocacao.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewVeiculo.baml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.g.resources
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.Properties.Resources.resources
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.csproj.GenerateResource.cache
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.csproj.CopyComplete
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.exe
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.pdb
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\netstandard.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.AppContext.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.Concurrent.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.NonGeneric.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.Specialized.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ComponentModel.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ComponentModel.Primitives.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Console.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Data.Common.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.Contracts.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.Debug.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.Process.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.Tools.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.Tracing.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Drawing.Primitives.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Dynamic.Runtime.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Globalization.Calendars.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Globalization.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Globalization.Extensions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.Compression.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.FileSystem.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.IsolatedStorage.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.Pipes.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Linq.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Linq.Expressions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Linq.Parallel.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Linq.Queryable.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Http.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.NameResolution.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.NetworkInformation.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Ping.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Primitives.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Requests.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Security.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Sockets.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.WebSockets.Client.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.WebSockets.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ObjectModel.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Reflection.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Reflection.Extensions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Reflection.Primitives.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Resources.Reader.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Resources.ResourceManager.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Resources.Writer.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Extensions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Handles.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.InteropServices.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Numerics.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Claims.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Principal.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.SecureString.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Text.Encoding.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Text.RegularExpressions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Overlapped.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Tasks.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Thread.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.ThreadPool.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Timer.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ValueTuple.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.ReaderWriter.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.XDocument.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.XmlDocument.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.XmlSerializer.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.XPath.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Options.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Identity.Client.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Newtonsoft.Json.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Buffers.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.Immutable.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ComponentModel.Annotations.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Memory.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Numerics.Vectors.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Options.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Identity.Client.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\Newtonsoft.Json.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Buffers.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.Immutable.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Memory.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Numerics.Vectors.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\workspace\c#\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.exe.config
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Locadora.exe.config
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Locadora.exe
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Locadora.pdb
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\netstandard.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.AppContext.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ComponentModel.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Console.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Data.Common.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Globalization.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.Compression.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.Pipes.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Linq.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Http.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Ping.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Primitives.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Requests.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Security.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.Sockets.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ObjectModel.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Reflection.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Resources.Reader.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Resources.Writer.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Claims.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.Principal.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Security.SecureString.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Text.Encoding.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Thread.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Timer.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ValueTuple.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.XPath.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\EntityFramework.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Buffers.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Memory.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\EntityFramework.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Buffers.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Memory.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.exe.config
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\MainWindow.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroCliente.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroFuncionario.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroVeiculo.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmRegistroDevolucao.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmRegistroLocacao.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\Menu.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewCliente.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewDevolucao.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewFuncionario.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewLocacao.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewVeiculo.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\App.g.cs
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora_MarkupCompile.cache
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora_MarkupCompile.lref
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\MainWindow.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroCliente.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroFuncionario.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmCadastroVeiculo.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmRegistroDevolucao.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\frmRegistroLocacao.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\Menu.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewCliente.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewDevolucao.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewFuncionario.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewLocacao.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Views\viewVeiculo.baml
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.g.resources
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.Properties.Resources.resources
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.csproj.CopyComplete
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.exe
+C:\Users\Michael\source\repos\LocadoraWpf2\LocadoraWpf2\Locadora\Locadora\obj\Debug\Locadora.pdb
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Locadora.exe.config
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Locadora.exe
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Locadora.pdb
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\netstandard.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.AppContext.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Collections.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.ComponentModel.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Console.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Data.Common.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Globalization.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.Compression.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.Pipes.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Linq.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.Http.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.Ping.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.Primitives.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.Requests.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.Security.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.Sockets.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.ObjectModel.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Reflection.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Resources.Reader.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Resources.Writer.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Security.Claims.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Security.Principal.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Security.SecureString.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Text.Encoding.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Threading.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Threading.Thread.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Threading.Timer.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.ValueTuple.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Xml.XPath.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\EntityFramework.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Buffers.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Memory.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\EntityFramework.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Buffers.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Memory.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Diego\Downloads\Locadora2.0\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora.csprojAssemblyReference.cache
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora.exe.config
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\MainWindow.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\frmCadastroCliente.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\frmCadastroFuncionario.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\frmCadastroVeiculo.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\frmRegistroDevolucao.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\frmRegistroLocacao.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\Menu.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\viewCliente.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\viewDevolucao.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\viewFuncionario.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\viewLocacao.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\viewVeiculo.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\App.g.cs
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora_MarkupCompile.cache
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora_MarkupCompile.lref
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\MainWindow.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\frmCadastroCliente.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\frmCadastroFuncionario.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\frmCadastroVeiculo.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\frmRegistroDevolucao.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\frmRegistroLocacao.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\Menu.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\viewCliente.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\viewDevolucao.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\viewFuncionario.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\viewLocacao.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Views\viewVeiculo.baml
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora.g.resources
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora.Properties.Resources.resources
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora.csproj.GenerateResource.cache
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora.csproj.CopyComplete
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora.exe
+C:\Users\Diego\Downloads\Locadora2.0\obj\Debug\Locadora.pdb
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Locadora.exe.config
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Locadora.exe
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Locadora.pdb
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\netstandard.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.AppContext.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Collections.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.ComponentModel.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Console.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Data.Common.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Globalization.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.Compression.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.Pipes.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Linq.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.Http.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.Ping.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.Primitives.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.Requests.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.Security.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.Sockets.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.ObjectModel.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Reflection.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Resources.Reader.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Resources.Writer.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Security.Claims.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Security.Principal.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Security.SecureString.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Text.Encoding.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Threading.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Threading.Thread.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Threading.Timer.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.ValueTuple.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Xml.XPath.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Buffers.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Memory.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Buffers.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Memory.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora.csprojAssemblyReference.cache
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora.exe.config
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\MainWindow.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\frmCadastroCliente.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\frmCadastroFuncionario.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\frmCadastroVeiculo.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\frmRegistroDevolucao.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\frmRegistroLocacao.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\Menu.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\viewCliente.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\viewDevolucao.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\viewFuncionario.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\viewLocacao.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\viewVeiculo.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\App.g.cs
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora_MarkupCompile.cache
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora_MarkupCompile.lref
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\MainWindow.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\frmCadastroCliente.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\frmCadastroFuncionario.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\frmCadastroVeiculo.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\frmRegistroDevolucao.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\frmRegistroLocacao.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\Menu.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\viewCliente.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\viewDevolucao.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\viewFuncionario.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\viewLocacao.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Views\viewVeiculo.baml
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora.g.resources
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora.Properties.Resources.resources
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora.csproj.GenerateResource.cache
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora.csproj.CopyComplete
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora.exe
+C:\Users\Michael\Downloads\Locadora2.1\Locadora2.1\obj\Debug\Locadora.pdb
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Locadora.exe.config
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Locadora.exe
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Locadora.pdb
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\netstandard.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.AppContext.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Collections.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.ComponentModel.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Console.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Data.Common.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Globalization.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.Compression.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.Pipes.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Linq.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.Http.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.Ping.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.Primitives.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.Requests.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.Security.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.Sockets.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.ObjectModel.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Reflection.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Resources.Reader.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Resources.Writer.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Security.Claims.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Security.Principal.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Security.SecureString.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Text.Encoding.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Threading.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Threading.Thread.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Threading.Timer.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.ValueTuple.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Xml.XPath.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\EntityFramework.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Buffers.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Memory.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\EntityFramework.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Buffers.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Memory.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora.csprojAssemblyReference.cache
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora.exe.config
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\MainWindow.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\frmCadastroCliente.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\frmCadastroFuncionario.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\frmCadastroVeiculo.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\frmRegistroDevolucao.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\frmRegistroLocacao.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\Menu.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\viewCliente.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\viewDevolucao.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\viewFuncionario.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\viewLocacao.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\viewVeiculo.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\App.g.cs
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora_MarkupCompile.cache
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora_MarkupCompile.lref
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\MainWindow.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\frmCadastroCliente.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\frmCadastroFuncionario.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\frmCadastroVeiculo.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\frmRegistroDevolucao.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\frmRegistroLocacao.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\Menu.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\viewCliente.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\viewDevolucao.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\viewFuncionario.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\viewLocacao.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Views\viewVeiculo.baml
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora.g.resources
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora.Properties.Resources.resources
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora.csproj.GenerateResource.cache
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora.csproj.CopyComplete
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora.exe
+C:\Users\Weslley War\Downloads\Locadora2.2\obj\Debug\Locadora.pdb

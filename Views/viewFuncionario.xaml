@@ -1,0 +1,38 @@
+﻿<Window x:Class="Locadora.Views.viewFuncionario"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Locadora.Views"
+        mc:Ignorable="d"
+        Title="Conheça nossos funcionarios" Height="450" Width="704.969" Loaded="Window_Loaded">
+    <Grid>
+        <Grid>
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FFEBDE88" Offset="0.923"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Label x:Name="LbListaFuncionario" Margin="-10,10,10.4,370" FontWeight="Bold" FontStyle="Italic" FontSize="18" Content="&#x9;&#x9;    LISTA DOS FUNCIONARIOS CADASTRADOS"/>
+            <DataGrid x:Name="dtaFuncionarios" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="297" Margin="10,55,0,0" VerticalAlignment="Top" Width="661" Background="#FFEBDE88">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Id}"  Header="ID" Width="50"/>
+                    <DataGridTextColumn Binding="{Binding Nome}" Header="NOME" Width="80"/>
+                    <DataGridTextColumn Binding="{Binding Genero}"  Header="GENERO" Width="80"/>
+                    <DataGridTextColumn Binding="{Binding Idade}"  Header="IDADE" Width="50"/>
+                    <DataGridTextColumn Binding="{Binding Idade}"  Header="NASC." Width="50"/>
+                    <DataGridTextColumn Binding="{Binding Idade}"  Header="CEP" Width="50"/>
+                    
+                    <DataGridTextColumn Binding="{Binding Cpf}"  Header="CPF" Width="100"/>
+                    
+                    <DataGridTextColumn Binding="{Binding Telefone}"  Header="TELEFONE" Width="100"/>
+                    <DataGridTextColumn Binding="{Binding CriadoEm}"  Header="Criado Em" Width="80"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button x:Name="btnFechar" Background="#FFFDF2E0" 
+            BorderBrush="Black" BorderThickness="1" 
+            ClickMode="Press" Margin="305,352,318.4,20" Content="FECHAR" FontSize="18" RenderTransformOrigin="0.335,0.511" Click="btnFechar_Click"/>
+        </Grid>
+    </Grid>
+</Window>
